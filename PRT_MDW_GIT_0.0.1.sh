@@ -1,4 +1,5 @@
 #!/bin/sh
+
 # Autor: Thiago Campanilli
  
 cd /home/pi/CAMPANILLI/scripts
