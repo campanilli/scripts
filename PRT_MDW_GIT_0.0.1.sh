@@ -2,7 +2,7 @@
  
 cd /home/pi/CAMPANILLI/scripts
 
-Echo '"Alterações realizadas em '`date +%d/%m/%Y-%H:%M`'"'
+echo '"Alterações realizadas em '`date +%d/%m/%Y-%H:%M`'"'
  
 git status
  
