@@ -1,6 +1,6 @@
 #!/bin/sh
  
-cd /home/pi/CAMPANILLI/scripts
+cd /home/pi/CAMPANILLI/PRT_MDW_GIT
 
 echo '"Alterações realizadas em '`date +%d/%m/%Y-%H:%M`'"'
  
